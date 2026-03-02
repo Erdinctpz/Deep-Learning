@@ -1,6 +1,6 @@
 # Derin Öğrenme Ödevleri
 
-Bu repository, **Karadeniz Teknik Üniversitesi (KTÜ)** Yazılım Mühendisliği bölümü bünyesinde gerçekleştirdiğim **Derin Öğrenme** çalışmalarını ve projelerimi içermektedir.
+Bu repository, **Karadeniz Teknik Üniversitesi (KTÜ)** Yazılım Mühendisliği bölümü bünyesinde gerçekleştirdiğim **Derin Öğrenme** çalışmalarımı ve projelerimi içermektedir.
 
 ## Proje Listesi
 

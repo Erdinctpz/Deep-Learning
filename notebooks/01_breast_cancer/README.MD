@@ -65,7 +65,7 @@ Projeleri yerel makinenizde çalıştırmak için aşağıdaki adımları takip 
 
 1. **Depoyu Klonlayın:**
 ```bash
-git clone https://github.com/kullanici_adin/Deep-Learning.git
+git clone https://github.com/Erdinctpz/Deep-Learning.git
 cd Deep-Learning
 
 ```
